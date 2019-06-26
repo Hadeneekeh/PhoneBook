@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-tutorial/static/css/main.57d517f1.chunk.css",
-    "main.js": "/react-tutorial/static/js/main.3781b2fc.chunk.js",
-    "main.js.map": "/react-tutorial/static/js/main.3781b2fc.chunk.js.map",
-    "runtime~main.js": "/react-tutorial/static/js/runtime~main.782a6e4d.js",
-    "runtime~main.js.map": "/react-tutorial/static/js/runtime~main.782a6e4d.js.map",
-    "static/js/2.86a2265c.chunk.js": "/react-tutorial/static/js/2.86a2265c.chunk.js",
-    "static/js/2.86a2265c.chunk.js.map": "/react-tutorial/static/js/2.86a2265c.chunk.js.map",
-    "index.html": "/react-tutorial/index.html",
-    "precache-manifest.b94d5b4a615f3b9d448c5695899b6aa3.js": "/react-tutorial/precache-manifest.b94d5b4a615f3b9d448c5695899b6aa3.js",
-    "service-worker.js": "/react-tutorial/service-worker.js",
-    "static/css/main.57d517f1.chunk.css.map": "/react-tutorial/static/css/main.57d517f1.chunk.css.map"
+    "main.css": "/phone-book/static/css/main.57d517f1.chunk.css",
+    "main.js": "/phone-book/static/js/main.5c5a5132.chunk.js",
+    "main.js.map": "/phone-book/static/js/main.5c5a5132.chunk.js.map",
+    "runtime~main.js": "/phone-book/static/js/runtime~main.08cbb3f7.js",
+    "runtime~main.js.map": "/phone-book/static/js/runtime~main.08cbb3f7.js.map",
+    "static/js/2.86a2265c.chunk.js": "/phone-book/static/js/2.86a2265c.chunk.js",
+    "static/js/2.86a2265c.chunk.js.map": "/phone-book/static/js/2.86a2265c.chunk.js.map",
+    "index.html": "/phone-book/index.html",
+    "precache-manifest.2884c7c40259b6a2a492303c752fea6c.js": "/phone-book/precache-manifest.2884c7c40259b6a2a492303c752fea6c.js",
+    "service-worker.js": "/phone-book/service-worker.js",
+    "static/css/main.57d517f1.chunk.css.map": "/phone-book/static/css/main.57d517f1.chunk.css.map"
   }
 }
